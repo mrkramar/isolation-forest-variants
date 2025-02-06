@@ -23,7 +23,7 @@ pred = fcf.predict(data)
 ```
 
 ## Demo
-Check out the `eval.ipynb` jupyter notebook for some demos of evaluation and visualizations of the results.
+Check out the jupyter notebooks for some demos of evaluation and visualizations of the results.
 
 ## License
 This code was created as a part of [my diploma thesis](https://dspace.cvut.cz/bitstream/handle/10467/108884/F8-DP-2023-Kramar-Maros-thesis.pdf). You are welcome to use it in accordance with the thesis license.
